@@ -1,5 +1,7 @@
 # HR-Analytics
 Hi, this is my HR reports that include two main analysis: headcounts and training situations in a manufactoring company.
+
+
 ![1](https://github.com/TienPhan9/HR-Analytics/assets/105960487/b39967e7-87b0-4d7d-8fc2-c31a2f536466)
 ![2](https://github.com/TienPhan9/HR-Analytics/assets/105960487/9f7650ae-1c38-4c4e-9f90-94036ca33e25)
 ![3](https://github.com/TienPhan9/HR-Analytics/assets/105960487/8d1eb095-3aef-41b7-8d74-65b2b0087d66)
