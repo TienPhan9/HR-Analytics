@@ -1,10 +1,15 @@
 # HR-Analytics
-Hi, this is my HR reports that include two main analysis: headcounts and training situations in a manufactoring company.
+Hi, this is my HR reports that include two main analyses: headcounts and training situations in a manufacturing company.
 
+![1](https://github.com/TienPhan9/HR-Analytics/assets/105960487/c88972e8-7fa3-4bc5-8b2e-0a8248173100)
 
-![1](https://github.com/TienPhan9/HR-Analytics/assets/105960487/b39967e7-87b0-4d7d-8fc2-c31a2f536466)
-![2](https://github.com/TienPhan9/HR-Analytics/assets/105960487/9f7650ae-1c38-4c4e-9f90-94036ca33e25)
-![3](https://github.com/TienPhan9/HR-Analytics/assets/105960487/8d1eb095-3aef-41b7-8d74-65b2b0087d66)
-![4](https://github.com/TienPhan9/HR-Analytics/assets/105960487/09fb0c06-80d5-4568-97e1-2ed5216d678c)
-![5](https://github.com/TienPhan9/HR-Analytics/assets/105960487/7256be0e-9b9a-40a6-96aa-5fa22bb0c107)
-![6](https://github.com/TienPhan9/HR-Analytics/assets/105960487/1722d397-7227-4251-a7db-5e8140f70dbe)
+![2](https://github.com/TienPhan9/HR-Analytics/assets/105960487/72a62171-bc1b-4f4f-8f61-bb4c46f15283)
+
+![3](https://github.com/TienPhan9/HR-Analytics/assets/105960487/1d536182-fa48-4c1c-a700-66a32b84bfcf)
+
+![4](https://github.com/TienPhan9/HR-Analytics/assets/105960487/45b28fbc-bafd-405b-834b-b75790f08576)
+
+![5](https://github.com/TienPhan9/HR-Analytics/assets/105960487/80fb00bc-a384-4a61-9e6c-ed5b696a17ad)
+
+![6](https://github.com/TienPhan9/HR-Analytics/assets/105960487/75495463-32f5-4568-a19a-84c29dd084bc)
+
